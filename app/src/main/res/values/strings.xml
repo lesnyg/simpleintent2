@@ -3,4 +3,7 @@
     <string name="buttonfirst">First Button</string>
     <string name="buttonsecond">Second Button</string>
     <string name="buttonthird">Third Button(Home)</string>
+    <string name="TextViewTitle">First Activity</string>
+    <string name="TextViewTitle2">Second Activity</string>
+    <string name="TextViewTitle3">Third Activity</string>
 </resources>
